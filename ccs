@@ -1,0 +1,8 @@
+/* Thêm hình nền cho body */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background: url(https://www.google.com.vn/url?sa=i&url=https%3A%2F%2Fcellphones.com.vn%2Fsforum%2Fhinh-nen-powerpoint-bao-ve-moi-truong&psig=AOvVaw27lCNo07mLV49aBn7JeF1H&ust=1734139765973000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDCjpjMo4oDFQAAAAAdAAAAABAQ') no-repeat center center fixed; /* Đường dẫn đến hình ảnh */
+    background-size: cover; /* Đảm bảo hình ảnh phủ hết màn hình */
+    color: #333;
+}
