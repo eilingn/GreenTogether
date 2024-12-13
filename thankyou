@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Cảm ơn!</title>
+    <link rel="stylesheet" href="style.css"> <!-- Liên kết với tệp CSS -->
+</head>
+<body>
+
+    <!-- Trang cảm ơn -->
+    <header>
+        <h1>Cảm ơn bạn đã đăng ký tham gia GreenTogether!</h1>
+        <p>Chúng tôi rất vui mừng khi bạn gia nhập cộng đồng bảo vệ môi trường cùng chúng tôi.</p>
+        <p>Chúng tôi sẽ liên lạc với bạn sớm nhất. Hãy chuẩn bị sẵn sàng cho hành trình bảo vệ môi trường!</p>
+    </header>
+
+</body>
+</html>
