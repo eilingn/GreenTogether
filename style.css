@@ -1,0 +1,84 @@
+/* Thêm hình nền cho body */
+body {
+    font-family: Arial, sans-serif;
+    background: #e8f5e9; /* Màu nền xanh nhạt */
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header */
+header {
+    background: #4CAF50; /* Màu xanh lá */
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 3em;
+}
+
+header p {
+    font-size: 1.2em;
+}
+
+/* Section Đăng ký */
+.signup {
+    padding: 40px 0;
+    text-align: center;
+    background-color: #A5D6A7; /* Màu xanh lá nhạt */
+}
+
+/* Container để căn giữa nội dung */
+.signup .container {
+    width: 50%;
+    margin: 0 auto;
+}
+
+/* Định dạng cho các input và textarea */
+form input, form textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: 0.3s;
+}
+
+form input:focus, form textarea:focus {
+    border-color: #4CAF50;
+    box-shadow: 0 0 8px rgba(76, 175, 80, 0.6);
+}
+
+/* Định dạng cho nút button */
+form button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1.2rem;
+    transition: 0.3s;
+}
+
+form button:hover {
+    background-color: #45a049;
+    transform: scale(1.1);
+}
+
+/* Các hiệu ứng hover */
+h2, p {
+    transition: all 0.3s ease-in-out;
+}
+
+h2:hover {
+    color: #388E3C;
+}
+
+p:hover {
+    font-style: italic;
+}
