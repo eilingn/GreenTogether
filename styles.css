@@ -1,0 +1,51 @@
+/* Cài đặt font và margin cho toàn bộ trang */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #eaf4e4;
+}
+
+/* Thiết kế cho header */
+header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+/* Thiết kế menu */
+nav a {
+    margin: 0 15px;
+    color: white;
+    text-decoration: none;
+}
+
+/* Thiết kế cho các phần */
+section {
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+}
+
+/* Thiết kế cho button */
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+/* Thiết kế cho footer */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
